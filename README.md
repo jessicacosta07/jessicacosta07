@@ -1,16 +1,10 @@
-### Hello, I'm Jessica
+### Hi, I'm Jessica Costa
 
-<!--
-**jessicacosta07/jessicacosta07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Fagner! :D
 
-Here are some ideas to get you started:
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jessicacosta07)](https://github.com/jessicacosta07)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/jessicosta94/)](https://www.linkedin.com/in/jessicosta94/)
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+Linguagem de Programação: Java, Kotlin
+
