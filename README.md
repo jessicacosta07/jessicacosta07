@@ -1,6 +1,6 @@
 ### Hi, I' m Jessica Costa
 
-I am passionate about technology. I try to instigate and deepen knowledge in technologies such as: Machine Learning, Cloud Computing and Kotlin.
+# I am passionate about technology. I try to instigate and deepen knowledge in technologies such as: Machine Learning, Cloud Computing and Kotlin.
 -----
 Programming languages: Python, Java, Kotlin, HTML, CSS e JavaScript
 
