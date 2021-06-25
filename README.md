@@ -4,7 +4,7 @@ Sou apaixonado por tecnologia. Procuro instigar e aprofundar conhecimentos em te
 
 Linguagens de programação: Python, Java, Kotlin, HTML, CSS e JavaScript
 
-Habilidades: Desenvolvimento Back-end com Java, Desenvolvimento Mobile com Kotlin e Aprendizado de Máquina
+Habilidades: Back-end com Java, Mobile com Kotlin e Aprendizado de Máquina
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jessicacosta07)](https://github.com/jessicacosta07)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/jessicosta94/)](https://www.linkedin.com/in/jessicosta94/)
