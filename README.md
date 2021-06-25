@@ -1,4 +1,4 @@
-### Olá, sou a Jessica Costa
+### Olá, sou a Jessica
 -----
 Sou apaixonado por tecnologia. Procuro instigar e aprofundar conhecimentos em tecnologias como: Machine Learning, Cloud Computing e Kotlin.
 
