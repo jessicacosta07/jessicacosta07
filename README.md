@@ -1,6 +1,6 @@
 ### Bem-vindo! Sou a Jessica
 -----
-Sou apaixonado por tecnologia. Procuro instigar e aprofundar conhecimentos em tecnologias como: Machine Learning, Cloud Computing e Kotlin.
+Sou apaixonado por tecnologia. Procuro instigar e aprofundar conhecimentos em tecnologias como: Programação, Machine Learning e Cloud Computing.
 
 Linguagens de programação: Python, Java, Kotlin, HTML, CSS e JavaScript
 
