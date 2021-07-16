@@ -26,6 +26,7 @@ I seek to improve my knowledge on the following topics: Programming, Machine Lea
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white=https://github.com/jessicacosta07)](https://github.com/jessicacosta07)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white:https://www.linkedin.com/in/jessicosta94/)](https://www.linkedin.com/in/jessicosta94/)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicacosta07&theme=blue-green)
 
 
 
