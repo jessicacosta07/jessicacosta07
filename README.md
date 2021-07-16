@@ -1,4 +1,4 @@
-### Welcome! Sou a Jessica
+### Welcome! I'm Jessica
 -----
 
 Master's student in Computer Science
