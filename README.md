@@ -1,15 +1,16 @@
-### Bem-vindo! Sou a Jessica
+### Welcome! Sou a Jessica
 -----
 
-Mestranda em Ciência de Computação
+Master's student in Computer Science
 
-Graduada em Sistemas de Informação 
+Graduated in Information Systems
 
-Técnica em Eletrônica
+Electronics Technique
 
-Busco aperfeiçoar os conhecimentos nos seguintes temas: Programação, Machine Learning e Cloud Computing.
+I seek to improve my knowledge on the following topics: Programming, Machine Learning and Cloud Computing.
 
-Tecnologias: JavaScript, Java, Kotlin, Python, HTML e CSS
+# Skills
+[![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]
 
 # Social
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jessicacosta07)](https://github.com/jessicacosta07)
