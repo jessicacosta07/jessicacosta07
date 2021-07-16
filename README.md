@@ -1,6 +1,13 @@
 ### Bem-vindo! Sou a Jessica
 -----
-Sou apaixonada por tecnologia. Meu primeiro contato com programação foi no curso técnico em Eletrônica, na linguagem C. Graduada em Sistemas de Informação e atualmente cursando mestrado em Ciência de Computação. Durante a jornada do mestrado pude ter contato com diversas tecnologias e aperfeiçoar os conceitos de algoritmos e estrutura de dados, além de poder participar diversas iniciativas como hackathon, maratona e desafios de programação. Busco aperfeiçoar os conhecimentos nos seguintes temas: Programação, Machine Learning e Cloud Computing.
+
+Mestranda em Ciência de Computação. 
+
+Graduada em Sistemas de Informação 
+
+Técnica em Eletrônica
+
+Busco aperfeiçoar os conhecimentos nos seguintes temas: Programação, Machine Learning e Cloud Computing.
 
 Tecnologias: JavaScript, Java, Kotlin, Python, HTML e CSS
 
