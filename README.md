@@ -1,7 +1,7 @@
 ### Bem-vindo! Sou a Jessica
 -----
 
-Mestranda em Ciência de Computação. 
+Mestranda em Ciência de Computação
 
 Graduada em Sistemas de Informação 
 
