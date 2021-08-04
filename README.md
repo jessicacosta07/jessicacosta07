@@ -9,7 +9,7 @@ Electronics Technique
 
 I seek to improve my knowledge on the following topics: Programming, Machine Learning and Cloud Computing.
 
-[![]https://badges.pufler.dev/visits/{jessicacosta07}/{repo}]
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 
 # Social
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white:https://www.linkedin.com/in/jessicosta94/)](https://www.linkedin.com/in/jessicosta94/)
