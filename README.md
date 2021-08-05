@@ -1,11 +1,11 @@
 ### Welcome! I'm Jessica
 -----
 
-Master's student in Computer Science
+Master's student in Computer Science at UFV
 
-Graduated in Information Systems
+Graduated in Information Systems at IF Sudeste MG - Campus Juiz de Fora
 
-Electronics Technique
+Electronics Technique at IF Sudeste MG - Campus Juiz de Fora
 
 I seek to improve my knowledge on the following topics: Programming, Machine Learning and Cloud Computing.
 
