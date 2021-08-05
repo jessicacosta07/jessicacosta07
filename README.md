@@ -1,7 +1,7 @@
 ### Welcome! I'm Jessica
 -----
 
-Master's student in Computer Science at UFV
+Master's student in Computer Science at Universidade Federal de Viçosa(UFV)
 
 Graduated in Information Systems at IF Sudeste MG - Campus Juiz de Fora
 
