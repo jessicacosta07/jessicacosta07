@@ -24,7 +24,7 @@ I seek to improve my knowledge on the following topics: Programming and Cloud Co
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 # Most Used Languages
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=jessicacosta07&theme=blue-green)
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jessicacosta07&theme=blue-green)
 
 
