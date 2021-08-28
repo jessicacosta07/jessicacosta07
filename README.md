@@ -7,7 +7,7 @@ Graduated in Information Systems
 
 Electronics Technique
 
-I seek to improve my knowledge on the following topics: Programming and Cloud Computing.
+I seek to improve my knowledge on the following topic: Programming.
 
 # Social
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white:https://www.linkedin.com/in/jessicosta94/)](https://www.linkedin.com/in/jessicosta94/)
