@@ -1,7 +1,7 @@
 ### Hello! I'm Jessica
 -----
 
-Master's student in Computer Science 
+Master in Computer Science 
 
 Graduated in Information Systems
 
