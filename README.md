@@ -5,7 +5,7 @@ Master in Computer Science
 
 Graduated in Information Systems
 
-Electronics Technique
+Electronics Technician
 
 I seek to improve my knowledge on the following topic: Programming.
 
