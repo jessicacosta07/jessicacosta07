@@ -1,11 +1,9 @@
 ### Hello! I'm Jessica
 -----
 
-Master in Computer Science 
+Master's degree Ciência da Computação
 
-Graduated in Information Systems
-
-Electronics Technician
+Bachelor's degree Sistemas de Informação
 
 I seek to improve my knowledge on the following topic: Programming.
 
