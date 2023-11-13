@@ -32,7 +32,6 @@ I seek to improve my knowledge on the following topic: Programming.
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![image](https://github.com/jessicacosta07/jessicacosta07/assets/65916297/2fd61473-9f1b-43a1-bc0c-4ce38df48e95)
 
 
 # Cloud
