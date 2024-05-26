@@ -1,6 +1,5 @@
 ### Hello! I'm Jessica
 -----
-Information Technology Technician at UFV
 
 Master's degree in Science Computer
 
